@@ -1,3 +1,4 @@
 # understaanding_github
-this is my first Git Repository.
-author - PRABHAT KUMAR
+This is my first Git Repository.
+<br>
+Author - PRABHAT KUMAR
